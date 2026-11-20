@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HiddinSoundSA" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#00C853</item>
+        <item name="colorPrimaryVariant">#00A844</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#121212</item>
+    </style>
+</resources>
